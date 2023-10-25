@@ -1,0 +1,1 @@
+This repo contains my work on a Kaggle Dataset about [Earthquakes in Türkiye](https://www.kaggle.com/datasets/ayyuce/turkey-earthquakes).
